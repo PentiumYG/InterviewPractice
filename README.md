@@ -1,0 +1,2 @@
+# InterviewPractice
+Mathematical Questions
